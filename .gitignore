@@ -1,0 +1,10 @@
+/target/
+/src/test/
+Miko.puml
+nbproject/
+/src/test/
+nb-configuration.xml
+target
+.classpath
+.project
+.settings/
